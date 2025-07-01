@@ -1,13 +1,15 @@
 # 🌟 Mariam Khaled Portfolio
 
 Welcome to my personal portfolio website!  
-This site showcases my background, skills, and projects in data science and web development.
+This is my **first full project in web development**, where I designed and built the site from scratch using HTML, CSS, and a bit of JavaScript.  
+
+It’s a step toward my goal of combining **data science** with **front-end development**, and I’m excited to grow in both fields side by side.
 
 ## 🧠 About Me
 
 I'm a third-year Computer and Data Science student at Alexandria University.  
-I’m passionate about building clean, accessible, and data-informed web experiences.  
-My work combines front-end development with data science techniques.
+I’m passionate about creating clean, accessible, and data-informed web experiences.  
+I enjoy working on projects that blend design, usability, and smart analysis.
 
 ## 🛠️ Technologies Used
 
@@ -32,5 +34,4 @@ My work combines front-end development with data science techniques.
 
 ---
 
-> 💡 *Crafted with care using HTML, CSS, and JavaScript – combining usability with aesthetics.*
-
+> 💡 *Crafted with care using HTML, CSS, and JavaScript — my first web project, created with love and ambition for a future that blends data science and front-end development.*
